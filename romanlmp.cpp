@@ -1,4 +1,3 @@
-//Katie Ortiz - Homework #1 - CS 236 - 2/21/2021
 #include "roman.h"
 
 //This checkRomanNumeralValidity function implementation verifies the validity of the user's input
