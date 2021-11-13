@@ -1,4 +1,3 @@
-//Katie Ortiz - Homework #1 - CS 236 - 2/21/2021
 #define MAX 15
 #define RDLENGTH 7
 #include <iostream>
